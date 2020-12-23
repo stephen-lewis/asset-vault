@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="AssetVault" pattern="(file[asset-vault]:assets//*||file[asset-vault]:src//*||file[asset-vault]:tests//*)&amp;&amp;!file:src/Kernel.php&amp;&amp;!file:tests/bootstrap.php||file[asset-vault]:templates//*" />
+</component>
